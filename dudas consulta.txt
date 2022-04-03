@@ -1,0 +1,5 @@
+1. Donde justifico el por qué usamos cada distribución?
+	-En el código?
+	-En el reporte?
+		-En los resultados?
+		-En en el análisis de resultados?
